@@ -4,3 +4,4 @@ jdk: oraclejdk8
 ./gradlew clean .jar
 
 echo 'testing is coming soon'
+   
