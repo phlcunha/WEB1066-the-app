@@ -1,4 +1,7 @@
 language: java
 
+install:
+  ./gradlew
+
 script:
-  ./gradlew clean jar 
+  ./gradlew clean jar
